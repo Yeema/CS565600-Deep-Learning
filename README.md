@@ -14,3 +14,4 @@
 	* Lab12-2_Visualization_and_Style_Transfer
 	* Lab13 Seq2Seq Learning for Machine Translation 
 	* Lab14 Autoencoder
+	* Lab14-2 Improved WGAN
