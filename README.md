@@ -15,3 +15,4 @@
 	* Lab13 Seq2Seq Learning for Machine Translation 
 	* Lab14 Autoencoder
 	* Lab14-2 Improved WGAN
+	* Lab16-2 Q-learning and SARSA (remember to git clone PLE with tutorial https://github.com/ntasfi/PyGame-Learning-Environment/blob/master/docs/user/home.rst)
